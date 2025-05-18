@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohith</h1>
-
 <h3 align="center">A passionate developer always exploring and building!</h3>
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/mohithkotian" target="_blank">
@@ -23,7 +22,7 @@
 
 ---
 
-### 💻 Languages and Tools:
+### 💻 Languages and Tools
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -39,18 +38,24 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithkotian&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mohithkotian's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohithkotian&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithkotian&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithkotian&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkotian&theme=dark&hide_border=false&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithkotian&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
+
+### 👁️ Visitor Count
+
+<p align="left">
+  <img src="https://visitcount.itsvg.in/api?id=mohithkotian&icon=0&color=0" alt="Visitor Count"/>
+</p>
