@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithkotian&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mohith's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohithkotian&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mohithkotian's GitHub Stats"/>
 </p>
 
 <p align="left">
