@@ -54,9 +54,3 @@
 </p>
 
 ---
-
-### 👁️ Visitor Count:
-
-<p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=mohithkotian&icon=0&color=0" alt="Visitor Count"/>
-</p>
