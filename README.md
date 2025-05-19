@@ -7,20 +7,24 @@
 ---
 <h3 align="center">🌐 Connect with me</h3>
 
-<p align="center" style="display: flex; justify-content: center; gap: 30px; align-items: center;">
-  <a href="https://linkedin.com/in/mohithkotian" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="48" height="48" style="border-radius: 10px;">
+<p align="center">
+  <a href="https://linkedin.com/in/mohithkotian" target="_blank" style="margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45">
   </a>
-  <a href="https://instagram.com/mohithkotiann" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="48" height="48" style="border-radius: 10px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/mohithkotiann" target="_blank" style="margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45">
   </a>
-  <a href="https://leetcode.com/mohithkotian" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="48" height="48" style="border-radius: 10px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/mohithkotian" target="_blank" style="margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="45" height="45">
   </a>
-  <a href="https://discord.gg/mohith1454" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="48" height="48" style="border-radius: 10px;">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/mohith1454" target="_blank" style="margin: 0 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="45" height="45">
   </a>
 </p>
+
 
 
 
