@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohith</h1>
-<h3 align="center">A passionate developer always exploring and building!</h3>
+<h3 align="center">A passionate and bit of lazy developer always exploring and building!</h3>
 
 ---
 
