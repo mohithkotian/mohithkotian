@@ -11,15 +11,15 @@
   <a href="https://linkedin.com/in/mohithkotian" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" height="45">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/mohithkotiann" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="45" height="45">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/mohithkotian" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="45" height="45">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/mohith1454" target="_blank" style="margin: 0 20px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="45" height="45">
   </a>
