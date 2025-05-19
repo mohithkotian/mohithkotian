@@ -1,4 +1,63 @@
 <h1 align="center">   HELLO YOU   👋 </h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Hello</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        
+        .hello-container {
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+        
+        .hello-text {
+            font-size: 2rem;
+            transition: all 0.3s ease;
+        }
+        
+        .hello-text:hover {
+            font-size: 4rem;
+            color: #ff6b6b;
+        }
+        
+        .wave-emoji {
+            display: inline-block;
+            font-size: 2rem;
+            transition: all 0.3s ease;
+            transform-origin: 70% 70%;
+        }
+        
+        .hello-container:hover .wave-emoji {
+            animation: wave 0.8s ease-in-out infinite;
+            font-size: 4rem;
+        }
+        
+        @keyframes wave {
+            0% { transform: rotate(0deg); }
+            25% { transform: rotate(20deg); }
+            50% { transform: rotate(0deg); }
+            75% { transform: rotate(-20deg); }
+            100% { transform: rotate(0deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="hello-container">
+        <h1 class="hello-text">HELLO YOU <span class="wave-emoji">👋</span></h1>
+    </div>
+</body>
+</html>
 <h3 align="center">A passionate and bit of lazy developer always exploring and building shit!</h3>
 
 ---
