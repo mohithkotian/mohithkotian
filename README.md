@@ -1,7 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   HELLO YOU 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttaHFzdnNvdHBwemhvNThiNmd2ejk5cmRkNzJvdmViZDJiYjNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkFJdwctdeoZq/giphy.gif" width="80" alt="Waving hand gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttaHFzdnNvdHBwemhvNThiNmd2ejk5cmRkNzJvdmViZDJiYjNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkFJdwctdeoZq/giphy.gif" width="150" alt="Waving hand gif" style="vertical-align: middle;">
 </h1>
+
 
 ---
 
