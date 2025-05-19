@@ -1,13 +1,4 @@
-<h1 align="center">
-  Welcome to My GitHub Profile 👋
-</h1>
-<p align="center">
-  <img src="https://yourbannerlink.com/banner.gif" alt="Profile Banner" />
-</p>
-<h1 align="center">
-  HELLO YOU 
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttaHFzdnNvdHBwemhvNThiNmd2ejk5cmRkNzJvdmViZDJiYjNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkFJdwctdeoZq/giphy.gif" width="80" alt="Waving hand gif">
-</h1>
+<h1 align="center">HELLO YOU <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttaHFzdnNvdHBwemhvNThiNmd2ejk5cmRkNzJvdmViZDJiYjNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkFJdwctdeoZq/giphy.gif" width="80" alt="Waving hand gif"></h1>
 
 ---
 
