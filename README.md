@@ -1,4 +1,7 @@
 <h1 align="center">   HELLO YOU   👋 </h1>
+<h1 align="center">
+  HELLO YOU <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamttaHFzdnNvdHBwemhvNThiNmd2ejk5cmRkNzJvdmViZDJiYjNkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZkFJdwctdeoZq/giphy.gif" width="40">
+</h1>
 
 
 ---
